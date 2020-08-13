@@ -1,0 +1,2 @@
+This is an intro file.
+This images folder contains list of images that are helpful to understand the programming as well as C# concepts.
